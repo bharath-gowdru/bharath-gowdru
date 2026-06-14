@@ -3,8 +3,8 @@
 ## About Me
 - 📊 Associate Manager – Revenue Strategy & Analytics
 - 🎓 MBA in Business Analytics
-- 🔭 Currently working on pricing/revenue operations optimization models
-- 🌱 Exploring [SQL/Python/Power BI/Tableau — whatever applies]
+- 🔭 Currently working on Business Operations & Revenue optimization models
+- 🌱 Exploring SQL, Python, Power BI & Advanced Excel to drive data-driven decisions
 - 📫 Reach me at bharathgowdru.co@gmail.com
 
 ## Tools & Skills
