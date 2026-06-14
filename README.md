@@ -5,7 +5,7 @@
 - 🎓 MBA in Business Analytics
 - 🔭 Currently working on pricing/revenue operations optimization models
 - 🌱 Exploring [SQL/Python/Power BI/Tableau — whatever applies]
-- 📫 Reach me at [email]
+- 📫 Reach me at bharathgowdru.co@gmail.com
 
 ## Tools & Skills
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
