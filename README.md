@@ -3,7 +3,7 @@
 ## About Me
 - 📊 Associate Manager – Revenue Strategy & Analytics
 - 🎓 MBA in Business Analytics
-- 🔭 Currently working on pricing/revenue optimization models
+- 🔭 Currently working on pricing/revenue operations optimization models
 - 🌱 Exploring [SQL/Python/Power BI/Tableau — whatever applies]
 - 📫 Reach me at [email]
 
