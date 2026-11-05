@@ -19,9 +19,6 @@
 ## 📌 Featured Projects
 - [Trainity Data Analytics Projects](https://github.com/bharath-gowdru/Trainity-Data-Analytics-Projects): seven analytics projects using SQL, Excel and Python, covering hiring, operations, loan risk, call volume and user analytics
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bharath-gowdru&show_icons=true&theme=tokyonight)
-
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharath-gowdru)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bharathgowdru.co@gmail.com)
