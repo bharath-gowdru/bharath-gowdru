@@ -17,7 +17,7 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ## 📌 Featured Projects
-*(Pin repos like: revenue forecasting models, dashboards, A/B test analysis, pricing strategy case studies)*
+- [Trainity Data Analytics Projects](https://github.com/bharath-gowdru/Trainity-Data-Analytics-Projects): seven analytics projects using SQL, Excel and Python, covering hiring, operations, loan risk, call volume and user analytics
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=bharath-gowdru&show_icons=true&theme=tokyonight)
