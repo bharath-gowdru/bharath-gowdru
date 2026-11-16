@@ -16,7 +16,8 @@
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-## 📌 Featured Projects
+## 📌 Projects
+- [Sample BRD: E-commerce Checkout](https://github.com/bharath-gowdru/Sample-BRD-Ecommerce-Checkout): BRD, process flows, user stories and UAT for a checkout change (practice project)
 - [Trainity Data Analytics Projects](https://github.com/bharath-gowdru/Trainity-Data-Analytics-Projects): seven analytics projects using SQL, Excel and Python, covering hiring, operations, loan risk, call volume and user analytics
 
 ## 🔗 Connect
