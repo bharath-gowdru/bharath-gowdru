@@ -7,17 +7,16 @@
 - 🌱 Exploring Python to extend my SQL, Power BI and Excel analysis
 
 ## Tools & Skills
-![Requirements Analysis](https://img.shields.io/badge/-Requirements%20Analysis-1F6FEB?style=flat&logoColor=white)
-![UAT](https://img.shields.io/badge/-UAT-8957E5?style=flat&logoColor=white)
-![Process Mapping](https://img.shields.io/badge/-Process%20Mapping-0E8A16?style=flat&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![draw.io](https://img.shields.io/badge/-draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMTIiIHdpZHRoPSI1IiBoZWlnaHQ9IjEwIiByeD0iMS41IiBmaWxsPSIjMDAwIi8%2BPHJlY3QgeD0iOS41IiB5PSI3IiB3aWR0aD0iNSIgaGVpZ2h0PSIxNSIgcng9IjEuNSIgZmlsbD0iIzAwMCIvPjxyZWN0IHg9IjE3IiB5PSIyIiB3aWR0aD0iNSIgaGVpZ2h0PSIyMCIgcng9IjEuNSIgZmlsbD0iIzAwMCIvPjwvc3ZnPg%3D%3D)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgM2g1LjJsMy44IDYuMkwxNS44IDNIMjFsLTYuNCA5TDIxIDIxaC01LjJMMTIgMTQuOCA4LjIgMjFIM2w2LjQtOXoiLz48L3N2Zz4%3D)
+![Requirements Analysis](https://img.shields.io/badge/-Requirements%20Analysis-1F6FEB?style=flat&logoColor=white)
+![UAT](https://img.shields.io/badge/-UAT-8957E5?style=flat&logoColor=white)
+![Process Mapping](https://img.shields.io/badge/-Process%20Mapping-0E8A16?style=flat&logoColor=white)
 
 ## 📌 Projects
 - [Sample BRD: E-commerce Checkout](https://github.com/bharath-gowdru/Sample-BRD-Ecommerce-Checkout): BRD, process flows, user stories and UAT for a checkout change (practice project)
