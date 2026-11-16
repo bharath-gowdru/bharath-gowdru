@@ -8,26 +8,16 @@
 
 ## Tools & Skills
 
-### Core BA Skills
-![Requirements Gathering](https://img.shields.io/badge/-Requirements%20Gathering-1F6FEB?style=flat&logoColor=white)
-![Requirements Analysis](https://img.shields.io/badge/-Requirements%20Analysis-1F6FEB?style=flat&logoColor=white)
-![Business Rules](https://img.shields.io/badge/-Business%20Rules-1F6FEB?style=flat&logoColor=white)
-![User Stories](https://img.shields.io/badge/-User%20Stories-1F6FEB?style=flat&logoColor=white)
-![Process Mapping](https://img.shields.io/badge/-Process%20Mapping-1F6FEB?style=flat&logoColor=white)
-![Gap Analysis](https://img.shields.io/badge/-Gap%20Analysis-1F6FEB?style=flat&logoColor=white)
-![Stakeholder Management](https://img.shields.io/badge/-Stakeholder%20Management-1F6FEB?style=flat&logoColor=white)
-![UAT](https://img.shields.io/badge/-UAT-1F6FEB?style=flat&logoColor=white)
-![Defect Tracking](https://img.shields.io/badge/-Defect%20Tracking-1F6FEB?style=flat&logoColor=white)
-![Requirements Traceability](https://img.shields.io/badge/-Requirements%20Traceability-1F6FEB?style=flat&logoColor=white)
-![Impact Analysis](https://img.shields.io/badge/-Impact%20Analysis-1F6FEB?style=flat&logoColor=white)
-![Root Cause Analysis](https://img.shields.io/badge/-Root%20Cause%20Analysis-1F6FEB?style=flat&logoColor=white)
-
-### Documentation
-![BRD](https://img.shields.io/badge/-BRD-0E7490?style=flat&logoColor=white)
-![Process Flows](https://img.shields.io/badge/-Process%20Flows-0E7490?style=flat&logoColor=white)
-![UAT Test Cases](https://img.shields.io/badge/-UAT%20Test%20Cases-0E7490?style=flat&logoColor=white)
-![Traceability Matrix](https://img.shields.io/badge/-Traceability%20Matrix-0E7490?style=flat&logoColor=white)
-![SDLC](https://img.shields.io/badge/-SDLC-9CA3AF?style=flat&logoColor=white)
+### Business Analysis
+![Requirements Gathering](https://img.shields.io/badge/-Requirements%20Gathering-1F6FEB?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iNSIgeT0iNCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE4IiByeD0iMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik05IDIuNWg2VjZIOXogTTkgMTFoNiBNOSAxNWg2IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B)
+![User Stories](https://img.shields.io/badge/-User%20Stories-1F6FEB?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iNSIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik03IDEwaDEwIE03IDE0aDYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4%3D)
+![Process Mapping](https://img.shields.io/badge/-Process%20Mapping-1F6FEB?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMi41IiB5PSIzLjUiIHdpZHRoPSI3IiBoZWlnaHQ9IjYiIHJ4PSIxIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHJlY3QgeD0iMTQuNSIgeT0iMTQuNSIgd2lkdGg9IjciIGhlaWdodD0iNiIgcng9IjEiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNOS41IDYuNUgxOFYxNC41IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B)
+![Gap Analysis](https://img.shields.io/badge/-Gap%20Analysis-1F6FEB?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMTMiIHdpZHRoPSI1IiBoZWlnaHQ9IjgiIGZpbGw9IiNmZmYiLz48cmVjdCB4PSIxNiIgeT0iNCIgd2lkdGg9IjUiIGhlaWdodD0iMTciIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMTAgOC41aDQuNU0xMCAxMi41aDQuNSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPg%3D%3D)
+![Stakeholder Management](https://img.shields.io/badge/-Stakeholder%20Management-1F6FEB?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iOSIgY3k9IjgiIHI9IjMuMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjE3IiBjeT0iOSIgcj0iMi42IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTIuNSAyMGMwLTMuOCAzLTUuOCA2LjUtNS44czYuNSAyIDYuNSA1LjggTTE2IDE0LjVjMyAwIDUuNSAxLjYgNS41IDUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4%3D)
+![UAT](https://img.shields.io/badge/-UAT-1F6FEB?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik03LjcgMTIuNmwzIDMgNS42LTYuMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D)
+![BRD](https://img.shields.io/badge/-BRD-1F6FEB?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTYgMi41aDhsNSA1VjIxLjVINnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTQgMi41djVoNSBNOS41IDEzaDYgTTkuNSAxN2g2IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B)
+![FRD](https://img.shields.io/badge/-FRD-9CA3AF?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTYgMi41aDhsNSA1VjIxLjVINnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTQgMi41djVoNSBNOS41IDEzaDYgTTkuNSAxN2g2IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B)
+![Use Cases](https://img.shields.io/badge/-Use%20Cases-9CA3AF?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iOSIgY3k9IjgiIHI9IjMuMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjE3IiBjeT0iOSIgcj0iMi42IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTIuNSAyMGMwLTMuOCAzLTUuOCA2LjUtNS44czYuNSAyIDYuNSA1LjggTTE2IDE0LjVjMyAwIDUuNSAxLjYgNS41IDUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4%3D)
 
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
@@ -35,28 +25,14 @@
 ![draw.io](https://img.shields.io/badge/-draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMTIiIHdpZHRoPSI1IiBoZWlnaHQ9IjEwIiByeD0iMS41IiBmaWxsPSIjMDAwIi8%2BPHJlY3QgeD0iOS41IiB5PSI3IiB3aWR0aD0iNSIgaGVpZ2h0PSIxNSIgcng9IjEuNSIgZmlsbD0iIzAwMCIvPjxyZWN0IHg9IjE3IiB5PSIyIiB3aWR0aD0iNSIgaGVpZ2h0PSIyMCIgcng9IjEuNSIgZmlsbD0iIzAwMCIvPjwvc3ZnPg%3D%3D)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMTIiIHdpZHRoPSI1IiBoZWlnaHQ9IjEwIiByeD0iMS41IiBmaWxsPSIjMDAwIi8%2BPHJlY3QgeD0iOS41IiB5PSI3IiB3aWR0aD0iNSIgaGVpZ2h0PSIxNSIgcng9IjEuNSIgZmlsbD0iIzAwMCIvPjxyZWN0IHg9IjE3IiB5PSIyIiB3aWR0aD0iNSIgaGVpZ2h0PSIyMCIgcng9IjEuNSIgZmlsbD0iIzAwMCIvPjwvc3ZnPg%3D%3D)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgM2g1LjJsMy44IDYuMkwxNS44IDNIMjFsLTYuNCA5TDIxIDIxaC01LjJMMTIgMTQuOCA4LjIgMjFIM2w2LjQtOXoiLz48L3N2Zz4%3D)
-![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-D24726?style=flat&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-009688?style=flat&logoColor=white)
-![JSON](https://img.shields.io/badge/-JSON-009688?style=flat&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-7C3AED?style=flat&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-009688?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTggNi41bC01LjUgNS41TDggMTcuNSBNMTYgNi41bDUuNSA1LjUtNS41IDUuNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D)
 
 ### Methodologies
-![Agile Scrum](https://img.shields.io/badge/-Agile%20Scrum-8957E5?style=flat&logoColor=white)
-![MoSCoW Prioritisation](https://img.shields.io/badge/-MoSCoW%20Prioritisation-8957E5?style=flat&logoColor=white)
-
-### Soft Skills
-![Communication](https://img.shields.io/badge/-Communication-4B5563?style=flat&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-4B5563?style=flat&logoColor=white)
-![Cross functional Collaboration](https://img.shields.io/badge/-Cross%20functional%20Collaboration-4B5563?style=flat&logoColor=white)
-
-### Currently Learning
-![FRD](https://img.shields.io/badge/-FRD-9CA3AF?style=flat&logoColor=white)
-![Use Cases](https://img.shields.io/badge/-Use%20Cases-9CA3AF?style=flat&logoColor=white)
-![Wireframing](https://img.shields.io/badge/-Wireframing-9CA3AF?style=flat&logoColor=white)
-
+![Agile Scrum](https://img.shields.io/badge/-Agile%20Scrum-8957E5?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIwIDEyYTggOCAwIDAgMS0xMy43IDUuNiBNNCAxMmE4IDggMCAwIDEgMTMuNy01LjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTggMi41djQuNWgtNC41IE02IDIxLjVWMTdoNC41IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B)
+![SDLC](https://img.shields.io/badge/-SDLC-9CA3AF?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIwIDEyYTggOCAwIDAgMS0xMy43IDUuNiBNNCAxMmE4IDggMCAwIDEgMTMuNy01LjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTggMi41djQuNWgtNC41IE02IDIxLjVWMTdoNC41IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B)
+![MoSCoW](https://img.shields.io/badge/-MoSCoW-8957E5?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTQgNi41aDE2IE00IDEyaDExIE00IDE3LjVoNiIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B)
 
 ## 📌 Projects
 - [Sample BRD: E-commerce Checkout](https://github.com/bharath-gowdru/Sample-BRD-Ecommerce-Checkout): BRD, process flows, user stories and UAT for a checkout change (practice project)
